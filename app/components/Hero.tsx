@@ -68,7 +68,7 @@ export default function Hero() {
               Frontend Developer
             </h2>
             <p className="text-lg md:text-xl text-gray-600 dark:text-gray-400 mb-8 max-w-2xl mx-auto lg:mx-0">
-              Crafting exceptional digital experiences with modern web
+              Crafting highly exceptional digital experiences with modern web
               technologies. Specialized in building scalable full-stack
               applications using MongoDB, Express.js, React, and Node.js.
             </p>
